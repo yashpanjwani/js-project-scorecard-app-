@@ -1,0 +1,117 @@
+body {
+    margin: 0;
+    background: #1B244A;
+
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+}
+
+.home{
+    background: #1B244A;
+    font-family: Verdana;
+font-weight: 700;
+font-style: Bold;
+font-size: 40px;
+leading-trim: NONE;
+line-height: 35.89px;
+letter-spacing: 0%;
+text-align: center;
+
+
+
+}
+#b1{
+    background: #080001;
+    color: #F94F6D;
+    width: 117;
+height: 120;
+top: 125px;
+left: 100px;
+angle: 0 deg;
+opacity: 1;
+font-family: Cursed Timer ULiL;
+font-weight: 400;
+font-style: Regular;
+font-size: 90px;
+leading-trim: NONE;
+line-height: 126.67px;
+letter-spacing: 0%;
+text-align: center;
+
+
+
+
+}
+#h3{
+    color: white;
+
+
+}
+.buttonss {
+border: 2px solid #1B244A;
+font-family: Cursed Timer ULiL;
+font-weight: 400;
+font-style: Regular;
+font-size: 18px;
+leading-trim: NONE;
+line-height: 27.81px;
+letter-spacing: 0%;
+text-align: center;
+color: #1B244A;
+
+
+}
+.btn{
+border: 2px solid #1B244A;
+font-family: Cursed Timer ULiL;
+font-weight: 400;
+font-style: Regular;
+font-size: 18px;
+leading-trim: NONE;
+line-height: 27.81px;
+letter-spacing: 0%;
+text-align: center;
+color:#9AABD8;
+
+background: #1B244A;
+
+
+
+}
+.guest{
+    background: #1B244A;
+    font-family: Verdana;
+font-weight: 700;
+font-style: Bold;
+font-size: 40px;
+leading-trim: NONE;
+line-height: 35.89px;
+letter-spacing: 0%;
+text-align: center;
+
+}
+#b2{
+    background: #080001;
+    color: #F94F6D;
+    width: 117;
+height: 120;
+top: 125px;
+left: 100px;
+angle: 0 deg;
+opacity: 1;
+font-family: Cursed Timer ULiL;
+font-weight: 400;
+font-style: Regular;
+font-size: 90px;
+leading-trim: NONE;
+line-height: 126.67px;
+letter-spacing: 0%;
+text-align: center;
+
+
+
+
+}
